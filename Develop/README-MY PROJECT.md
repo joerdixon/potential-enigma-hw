@@ -1,11 +1,11 @@
 
-# H
+# MY PROJECT
 
 ![license badge](https://img.shields.io/badge/License-Apache%202.0-red)
 
 ## Description
     
-H
+This is my project that I worked hard on.
 
 ## Table of Contents
 
@@ -19,11 +19,11 @@ H
 
 ## Installation
     
-H
+npm i joerdixon
 
 ## Usage
     
-H
+To evaluate my work
 
 ## License
 
@@ -31,16 +31,18 @@ This program is covered under the [Apache 2.0](https://opensource.org/licenses/A
     
 ## Issues
     
-emaik\
+Email
     
 ## Contributions
     
-d
+Open a pull request
 
 ## Tests
 
-a
+None yet
 
 ## Questions
 
-a
+IDK
+
+You can also message me on GitHub at [joerdixon](https://github.com/joerdixon) or via email at joseph35dixon@gmail.com

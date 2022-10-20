@@ -1,11 +1,11 @@
 
-# L
+# a
 
-![license badge]()
+![license badge](https://img.shields.io/badge/License-MIT-red)
 
 ## Description
     
-L'
+a
 
 ## Table of Contents
 
@@ -19,28 +19,28 @@ L'
 
 ## Installation
     
-L
+a
 
 ## Usage
     
-L:
+a
 
 ## License
 
-Unlicensed
+This program is covered under the [MIT](https://opensource.org/licenses/MIT) license.
     
 ## Issues
     
-d
+a
     
 ## Contributions
     
-d
+a
 
 ## Tests
 
-d
+a
 
 ## Questions
 
-d
+a

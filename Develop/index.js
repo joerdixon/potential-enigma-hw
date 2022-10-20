@@ -63,9 +63,20 @@ function init() {
             message: "Where can users direct their questions? ",
             type: "input"
         },
+        {
+            name: "userGH",
+            message: "What is your GitHub username? ",
+            type: "input"
+        },
+        {
+            name: "userEmail",
+            message: "What email can users direct questions to? ",
+            type: "input"
+        }
 ]).then((response) => {
     // Determines appropriate license badge.
     let badgeURL;
+    let licenseURL;
     switch (response.projLicen) {
         case "MIT":
             badgeURL = "https://img.shields.io/badge/License-MIT-red"
@@ -134,7 +145,9 @@ ${response.projTest}
 
 ## Questions
 
-${response.projQue}`
+${response.projQue}
+
+You can also message me on GitHub at [${response.userGH}](https://github.com/${response.userGH}) or via email at ${response.userEmail}`
 );});}
 
 // Function call to initialize app
